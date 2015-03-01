@@ -2,8 +2,7 @@
 
 title:            TeachBack
 locale:           en_US
-# url:              http://teachback.co.uk
-url:
+url:              http://teachback.co.uk
 
 # Jekyll configuration
 
