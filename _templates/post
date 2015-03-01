@@ -1,6 +1,7 @@
 ---
 layout: {{ layout }}
 title: {{ title }}
+author: none
 modified:
 categories: {{ dir }}
 excerpt:

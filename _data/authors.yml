@@ -5,15 +5,45 @@ none:
 
 darioml:
   name: Dario Magliocchetti
-  email: dm1911@imperial.ac.uk
   bio: "Playing with Fire"
-  avatar: bio-photo.jpg
+  avatar: https://avatars0.githubusercontent.com/u/1472922?v=3&s=460
   twitter: darioaml
+  github: darioml
 
 
 txsl:
   name: Thomas Lim
-  email: txl11@imperial.ac.uk	
   bio: "Not as good as him"
-  avatar: bio-photo.jpg
+  avatar: https://avatars1.githubusercontent.com/u/1472925?v=3&s=400
   twitter: t8lim
+  github: txsl
+
+#fields
+  # name: TeachBack
+  # avatar: bio-photo.jpg
+  # bio: "Describe your self."
+  # email: 
+  # disqus-shortname: 
+  # twitter: #username
+  # facebook: #username
+  # google:
+  #   plus: #username
+  #   analytics: 
+  #   verify: 
+  #   ad-client: 
+  #   ad-slot: 
+  # bing-verify: 
+  # github: #username
+  # stackoverflow: #http://stackoverflow.com/users/123456/username
+  # linkedin: #username
+  # instagram: #username
+  # lastfm: #username
+  # tumblr: #username
+  # pinterest: #username
+  # foursquare: #username
+  # steam: #username
+  # dribbble: #username
+  # youtube: #username
+  # soundcloud: #username
+  # weibo: #username
+  # flickr: #username
