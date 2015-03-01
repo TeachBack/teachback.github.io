@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+# - title: About Us
+  # url: /about/
+
+- title: Blog Posts
+  url: /posts/
+
+# - title: Theme Setup
+#   url: /theme-setup/
+
+# - title: Imperial
+#   url: http://
